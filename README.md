@@ -1,0 +1,2 @@
+﻿#Author:GiayNhap
+ đã fix lỗi ( do zing mp3 thay đổi cấu trúc file ).
